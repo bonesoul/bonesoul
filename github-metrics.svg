@@ -3945,7 +3945,7 @@
                                     </div>
                                 </div>
                                 <div class="field description">
-                  A terminal for a more modern age (formerly Terminus)
+                  A terminal for a more modern age
                 </div>
                                 <div class="field infos">
                                     <div class="language">
@@ -5349,7 +5349,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2021, 20:25:51 (timezone Europe/Istanbul) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 24 Dec 2021, 21:22:22 (timezone Europe/Istanbul) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
