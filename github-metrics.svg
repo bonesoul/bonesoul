@@ -2523,7 +2523,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/got</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌐 Human-friendly and powerful HTTP request library for Node.js</div>
@@ -4070,7 +4070,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2022, 08:06:24 (timezone Europe/Istanbul) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 16 Apr 2022, 09:06:09 (timezone Europe/Istanbul) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
