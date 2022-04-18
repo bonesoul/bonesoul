@@ -2492,7 +2492,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sindresorhus/got</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌐 Human-friendly and powerful HTTP request library for Node.js</div>
@@ -2598,7 +2598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>porsager/postgres</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Postgres.js - The Fastest full featured PostgreSQL client for Node.js and Deno</div>
@@ -4039,7 +4039,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Apr 2022, 03:21:05 (timezone Europe/Istanbul) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 18 Apr 2022, 04:35:50 (timezone Europe/Istanbul) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
