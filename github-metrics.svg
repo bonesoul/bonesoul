@@ -3649,7 +3649,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 17.2k out of 306m repositories</span>
+                                    <span class="gh">ranked 17.1k out of 306m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">487</div>
                                     </div>
@@ -4063,7 +4063,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 May 2022, 05:43:23 (timezone Europe/Istanbul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 15 May 2022, 06:25:35 (timezone Europe/Istanbul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
