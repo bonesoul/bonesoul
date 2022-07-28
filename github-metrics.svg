@@ -3828,7 +3828,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 49.8k out of 328m repositories</span>
+                                    <span class="gh">ranked 49.9k out of 328m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">711</div>
                                     </div>
@@ -4075,7 +4075,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2022, 14:05:52 (timezone Europe/Istanbul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 28 Jul 2022, 15:07:49 (timezone Europe/Istanbul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
