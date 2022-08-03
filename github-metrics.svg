@@ -430,7 +430,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Mostly pushes code around 02:00</li>
-                        <li>Mostly active on Friday</li>
+                        <li>Mostly active on Wednesday</li>
                     </ul>
                 </div>
             </section>
@@ -4072,7 +4072,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2022, 13:06:10 (timezone Europe/Istanbul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 3 Aug 2022, 14:05:38 (timezone Europe/Istanbul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
