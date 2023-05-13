@@ -41,7 +41,7 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matheussampaio/ao-loot-logger</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AO Loot Logger logs all the loot grabbed from other players into a file. With this file, you can use AO Loot Logger Viewer to analyze it.</div>
@@ -2556,7 +2556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Aaur1s/portaler-modern</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Monorepo for Modern Portaler, a mapping tool for Albion Online (continued by aaur1s)</div>
@@ -2603,7 +2603,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EmeraldKnight79/AO-DU-LootLogger</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Albion Online : Guild - Dingo Inchained : Loot Logging program to discord</div>
@@ -3662,7 +3662,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 19.4k out of 401m repositories</span>
+                                    <span class="gh">ranked 20.6k out of 401m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">489</div>
                                     </div>
@@ -4079,7 +4079,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 May 2023, 23:05:46 (timezone Europe/Istanbul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 May 2023, 00:05:30 (timezone Europe/Istanbul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
