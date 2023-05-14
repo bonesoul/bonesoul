@@ -2514,7 +2514,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>matheussampaio/ao-loot-logger</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AO Loot Logger logs all the loot grabbed from other players into a file. With this file, you can use AO Loot Logger Viewer to analyze it.</div>
@@ -4088,7 +4088,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2023, 20:05:28 (timezone Europe/Istanbul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 May 2023, 21:05:37 (timezone Europe/Istanbul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
