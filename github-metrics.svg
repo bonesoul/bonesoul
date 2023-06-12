@@ -3692,7 +3692,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 28k out of 117m users</span>
+                                    <span class="gh">ranked 29.8k out of 117m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">251</div>
                                     </div>
@@ -4054,7 +4054,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jun 2023, 13:14:22 (timezone Europe/Istanbul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Jun 2023, 14:05:40 (timezone Europe/Istanbul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
