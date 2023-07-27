@@ -2596,7 +2596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OSNVR/OS-NVR</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OS-NVR is a lightweight extensible CCTV system. Mirror of Codeberg.</div>
@@ -2649,7 +2649,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blakeblackshear/frigate</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NVR with realtime local object detection for IP cameras</div>
@@ -3391,7 +3391,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jul 2023, 16:06:44 (timezone Europe/Istanbul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 Jul 2023, 17:06:05 (timezone Europe/Istanbul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
