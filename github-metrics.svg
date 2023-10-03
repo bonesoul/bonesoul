@@ -2418,7 +2418,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mop-tracker/mop</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stock market tracker for hackers.</div>
@@ -2471,7 +2471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JerBouma/FinanceDatabase</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.</div>
@@ -2524,7 +2524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JerBouma/FinanceToolkit</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Transparent and Efficient Financial Analysis</div>
@@ -2577,7 +2577,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>twopirllc/pandas-ta</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators</div>
@@ -3470,7 +3470,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 118k out of 121m users</span>
+                                    <span class="gh">ranked 118k out of 120m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">120</div>
                                     </div>
@@ -3560,7 +3560,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 31.8k out of 121m users</span>
+                                    <span class="gh">ranked 31.8k out of 120m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">252</div>
                                     </div>
@@ -3673,7 +3673,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 56.9k out of 47.9m repositories</span>
+                                    <span class="gh">ranked 56.9k out of 44.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">753</div>
                                     </div>
@@ -3884,7 +3884,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2023, 18:06:02 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2023, 19:06:03 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
