@@ -2509,7 +2509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>austin-starks/NextTrade</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A system that performs algorithmic trading</div>
@@ -3596,7 +3596,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 120k out of 125m users</span>
+                                    <span class="gh">ranked 120k out of 121m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">120</div>
                                     </div>
@@ -3645,7 +3645,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     inspirer
-                                    <span class="gh">ranked 20.7k out of 56.5m repositories</span>
+                                    <span class="gh">ranked 20.7k out of 53.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">517</div>
                                     </div>
@@ -3735,7 +3735,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 32.1k out of 125m users</span>
+                                    <span class="gh">ranked 32.1k out of 121m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">254</div>
                                     </div>
@@ -3848,7 +3848,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 57.7k out of 56.5m repositories</span>
+                                    <span class="gh">ranked 57.7k out of 53.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">754</div>
                                     </div>
@@ -4097,7 +4097,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2023, 00:05:12 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2023, 01:05:16 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
