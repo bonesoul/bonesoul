@@ -3602,7 +3602,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     inspirer
-                                    <span class="gh">ranked 21.1k out of 54.2m repositories</span>
+                                    <span class="gh">ranked 21.1k out of 60.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">519</div>
                                     </div>
@@ -3805,7 +3805,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 58k out of 54.2m repositories</span>
+                                    <span class="gh">ranked 58k out of 60.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">763</div>
                                     </div>
@@ -4054,7 +4054,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2023, 00:05:31 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Dec 2023, 01:05:27 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
