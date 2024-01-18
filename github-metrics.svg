@@ -3472,7 +3472,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 124k out of 127m users</span>
+                                    <span class="gh">ranked 124k out of 128m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">120</div>
                                     </div>
@@ -3562,7 +3562,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 33.5k out of 127m users</span>
+                                    <span class="gh">ranked 33.5k out of 128m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">253</div>
                                     </div>
@@ -3675,7 +3675,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 58.4k out of 41.9m repositories</span>
+                                    <span class="gh">ranked 58.4k out of 52.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">765</div>
                                     </div>
@@ -3886,7 +3886,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2024, 19:06:01 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jan 2024, 20:05:31 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
