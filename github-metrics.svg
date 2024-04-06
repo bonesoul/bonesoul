@@ -3588,7 +3588,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 128k out of 134m users</span>
+                                    <span class="gh">ranked 128k out of 133m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">120</div>
                                     </div>
@@ -3672,7 +3672,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 22.4k out of 84.5m repositories</span>
+                                    <span class="gh">ranked 22.4k out of 77.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">495</div>
                                     </div>
@@ -3727,7 +3727,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 35k out of 134m users</span>
+                                    <span class="gh">ranked 35k out of 133m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">253</div>
                                     </div>
@@ -3840,7 +3840,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 59.5k out of 84.5m repositories</span>
+                                    <span class="gh">ranked 59.5k out of 77.5m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">777</div>
                                     </div>
@@ -4128,7 +4128,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Apr 2024, 09:05:49 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Apr 2024, 10:05:48 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
