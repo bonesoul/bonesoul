@@ -2441,7 +2441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ai/nanoid</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny (124 bytes), secure, URL-friendly, unique string ID generator for JavaScript</div>
@@ -3688,7 +3688,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 63.8k out of 233m repositories</span>
+                                    <span class="gh">ranked 63.8k out of 232m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">817</div>
                                     </div>
@@ -3899,7 +3899,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Feb 2025, 12:06:44 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Feb 2025, 13:06:40 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
