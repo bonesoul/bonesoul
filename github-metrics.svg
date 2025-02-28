@@ -3693,7 +3693,7 @@ Any ideas?
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 63.8k out of 228m repositories</span>
+                                    <span class="gh">ranked 63.8k out of 240m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">817</div>
                                     </div>
@@ -3904,7 +3904,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2025, 20:06:02 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Feb 2025, 21:07:50 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
