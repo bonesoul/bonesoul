@@ -2417,7 +2417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ranaroussi/yfinance</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download market data from Yahoo! Finance's API</div>
@@ -2470,7 +2470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>financial-datasets/mcp-server</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An MCP server for interacting with the Financial Datasets stock market API.</div>
@@ -3312,7 +3312,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jun 2025, 19:08:06 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jun 2025, 20:07:00 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
