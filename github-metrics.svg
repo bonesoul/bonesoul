@@ -2490,7 +2490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>basecamp/kamal</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deploy web apps anywhere.</div>
@@ -2543,7 +2543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MightyMoud/sidekick</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bare metal to production ready in mins; your own fly server on your VPS.</div>
@@ -3338,7 +3338,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jul 2025, 15:11:57 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jul 2025, 16:18:01 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
