@@ -2429,7 +2429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>husjon/valheim_server_oci_setup</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Setup instructions for running Valheim on Oracle Cloud Infrastructure using Arm also available at https://codeberg.org/husjon/valheim_server_oci_setup</div>
@@ -3319,7 +3319,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2025, 00:06:36 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2025, 01:06:31 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
