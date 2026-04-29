@@ -2439,7 +2439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ahmeterenodaci/New-York-Stock-Exchange--NYSE--including-Symbols-and-Logos</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List of companies listed on the New York Stock Exchange (NYSE), including their logos and symbols. The source of the data is from the NYSE website. The data columns are "symbol", "name", "logoUrl".</div>
@@ -2486,7 +2486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codixus/marketicons</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stock market company logos as ready-to-use React components.</div>
@@ -2533,7 +2533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nvstly/symbols</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">All NYSE &amp; NASDAQ stock ticker symbols.</div>
@@ -2574,7 +2574,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nvstly/icons</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Transparent logos for all NYSE &amp; NASDAQ stock companies &amp; top cryptocurrencies, with cropped country flags for forex icons</div>
@@ -3317,7 +3317,7 @@ Any ideas?
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2026, 18:44:32 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Apr 2026, 19:38:02 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
